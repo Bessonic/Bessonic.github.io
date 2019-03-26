@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+#dropdown-menu-5 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-5 .navbar-brand a {
+  font-size: 46px;
+}
+#dropdown-menu-5 .nav .link,
+#dropdown-menu-5 .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-5 .navbar,
+#dropdown-menu-5 .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-5 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-5 .dropdown-menu a:hover,
+#dropdown-menu-5 .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-5 .navbar-toggler {
+  color: #000000;
+}
+#header1-9 H1 {
+  text-align: center;
+}
+#slider-a H2 {
+  text-align: right;
+  color: #ffffff;
+}
+#msg-box5-c .mbr-section-title {
+  color: #ffffff;
+}
